@@ -1,4 +1,4 @@
-<h1 align="center">WhisperLiveKit</h1>
+<h1 align="center">Pidor</h1>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/QuentinFuxa/WhisperLiveKit/refs/heads/main/demo.png" alt="WhisperLiveKit Demo" width="730">
